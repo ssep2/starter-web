@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mutale Mwamba    ssep2@northrise.net   @ssep2
 
 # THANKS
 
